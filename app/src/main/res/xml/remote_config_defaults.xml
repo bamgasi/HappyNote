@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>new_version</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>toolbar_image_count</key>
+        <value>15</value>
+    </entry>
+</defaultsMap>
